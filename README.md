@@ -12,13 +12,13 @@
 
 #### 项目目录结构
 
-![1558015071293](C:\Users\maoalong\AppData\Roaming\Typora\typora-user-images\1558015071293.png)
+
 
 #### UML类图关系
 
 > 以骑士为例
 
-![1558015330842](C:\Users\maoalong\AppData\Roaming\Typora\typora-user-images\1558015330842.png)
+
 
 
 
