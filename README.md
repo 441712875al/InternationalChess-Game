@@ -13,13 +13,13 @@
 #### 项目目录结构
 
 
-<img src="https://github.com/441712875al/InternationalChess-Game/blob/master/imgTmp/%E6%89%B9%E6%B3%A8%202019-06-23%20181631.png" />
+![项目结构图](https://github.com/441712875al/InternationalChess-Game/blob/master/imgTmp/%E6%89%B9%E6%B3%A8%202019-06-23%20181631.png)
 
 #### UML类图关系
 
 > 以骑士为例
 
-<img arc="https://github.com/441712875al/InternationalChess-Game/blob/master/imgTmp/%E6%89%B9%E6%B3%A8%202019-06-23%20181729.png" />
+![UML图](https://github.com/441712875al/InternationalChess-Game/blob/master/imgTmp/%E6%89%B9%E6%B3%A8%202019-06-23%20181729.png)
 
 #### 实现基本功能
 
