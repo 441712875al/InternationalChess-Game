@@ -1,4 +1,4 @@
-package com.Exercise3.view;
+package view;
 
 public  class ChessBoard {
     static ChessBoard chessBoard = null;

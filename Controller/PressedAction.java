@@ -1,7 +1,7 @@
-package com.Exercise3.Controller;
+package Controller;
 
-import com.Exercise3.view.ChessBoard;
-import com.Exercise3.view.ChessPane;
+import view.ChessBoard;
+import view.ChessPane;
 import javafx.event.EventHandler;
 import javafx.scene.input.MouseEvent;
 import javafx.scene.media.MediaPlayer;

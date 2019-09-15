@@ -1,7 +1,8 @@
-package com.Exercise3.view;
+package view;
 
-import com.Exercise3.entity.Piece.*;
-import com.Exercise3.entity.PieceType;
+
+import entity.PieceType;
+import entity.Piece.*;
 import javafx.scene.canvas.Canvas;
 import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.image.*;

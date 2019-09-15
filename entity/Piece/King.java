@@ -1,7 +1,7 @@
-package com.Exercise3.entity.Piece;
+package entity.Piece;
 
-import com.Exercise3.entity.PieceType;
-import com.Exercise3.entity.Strategy.KingStrategy;
+import entity.PieceType;
+import entity.Strategy.KingStrategy;
 
 public class King extends ChessPiece {
     public King(PieceType type, int row, int col) {

@@ -1,19 +1,19 @@
-package com.Exercise3.entity;
+package entity;
 
 public enum PieceType {
-    KINGBLACK("KingBlack","com/Exercise3/img/KingBlack.jpg"),
-    QUEENBLACK("QueenBlack","com/Exercise3/img/QueenBlack.jpg"),
-    CARBLACK("CarBlack","com/Exercise3/img/CarBlack.jpg"),
-    HORSEBLACK("HorseBlack","com/Exercise3/img/HorseBlack.jpg"),
-    SOLDIERBLACK("SoldierBlack","com/Exercise3/img/SoldierBlack.jpg"),
-    KNIGHTBLACK("KnightBlack","com/Exercise3/img/KnightBlack.jpg"),
+    KINGBLACK("KingBlack", "img/KingBlack.jpg"),
+    QUEENBLACK("QueenBlack", "img/QueenBlack.jpg"),
+    CARBLACK("CarBlack", "img/CarBlack.jpg"),
+    HORSEBLACK("HorseBlack", "img/HorseBlack.jpg"),
+    SOLDIERBLACK("SoldierBlack", "img/SoldierBlack.jpg"),
+    KNIGHTBLACK("KnightBlack", "img/KnightBlack.jpg"),
 
-    KINGWHITE("KingWhite","com/Exercise3/img/KingWhite.jpg"),
-    QUEENWHITE("QueenWhite","com/Exercise3/img/QueenWhite.jpg"),
-    CARWHITE("CarWhite","com/Exercise3/img/CarWhite.jpg"),
-    HORSEWHITE("HorseWhite","com/Exercise3/img/HorseWhite.jpg"),
-    SOLDIERWHITE("SoldierWhite","com/Exercise3/img/SoldierWhite.jpg"),
-    KNIGHTWHITE("KnightWhite","com/Exercise3/img/KnightWhite.jpg");
+    KINGWHITE("KingWhite", "img/KingWhite.jpg"),
+    QUEENWHITE("QueenWhite", "img/QueenWhite.jpg"),
+    CARWHITE("CarWhite", "img/CarWhite.jpg"),
+    HORSEWHITE("HorseWhite", "img/HorseWhite.jpg"),
+    SOLDIERWHITE("SoldierWhite", "img/SoldierWhite.jpg"),
+    KNIGHTWHITE("KnightWhite", "img/KnightWhite.jpg");
 
 
     private String desc;

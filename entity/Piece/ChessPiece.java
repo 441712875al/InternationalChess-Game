@@ -1,7 +1,7 @@
-package com.Exercise3.entity.Piece;
+package entity.Piece;
 
-import com.Exercise3.entity.Strategy.MoveStrategy;
-import com.Exercise3.entity.PieceType;
+import entity.Strategy.MoveStrategy;
+import entity.PieceType;
 
 import java.util.Objects;
 

@@ -1,7 +1,7 @@
-package com.Exercise3.Controller;
+package Controller;
 
-        import com.Exercise3.entity.Piece.ChessPiece;
-        import com.Exercise3.view.ChessPane;
+        import entity.Piece.ChessPiece;
+        import view.ChessPane;
         import javafx.event.ActionEvent;
         import javafx.event.EventHandler;
 

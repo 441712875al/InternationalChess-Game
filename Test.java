@@ -1,10 +1,8 @@
-package com.Exercise3;
-
-import com.Exercise3.Controller.PressedAction;
-import com.Exercise3.Controller.ReleaseAction;
-import com.Exercise3.Controller.ResetAction;
-import com.Exercise3.view.ChessBoard;
-import com.Exercise3.view.ChessPane;
+import Controller.PressedAction;
+import Controller.ReleaseAction;
+import Controller.ResetAction;
+import view.ChessBoard;
+import view.ChessPane;
 import javafx.application.Application;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
@@ -25,7 +23,7 @@ public class Test extends Application {
     @Override
     public void start(Stage primaryStage) {
 
-        String MEDIA_URL = "file:/E:/IdeaProjects/Experiment/src/com/Exercise3/music/BackgroundMusic.mp3";
+        String MEDIA_URL = "file:/F:/InternationalChess-Game/music/BackgroundMusic.mp3";
         ChessBoard chessBoard = ChessBoard.getInstance(100,40,40);
 
         //添加媒体资源

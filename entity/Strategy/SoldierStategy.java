@@ -1,6 +1,6 @@
-package com.Exercise3.entity.Strategy;
+package entity.Strategy;
 
-import com.Exercise3.entity.Piece.ChessPiece;
+import entity.Piece.ChessPiece;
 
 import java.util.Set;
 

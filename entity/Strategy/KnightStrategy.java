@@ -1,9 +1,7 @@
-package com.Exercise3.entity.Strategy;
+package entity.Strategy;
 
-import com.Exercise3.entity.Piece.ChessPiece;
+import entity.Piece.ChessPiece;
 
-import java.util.List;
-import java.util.Map;
 import java.util.Set;
 
 public class KnightStrategy implements MoveStrategy {
